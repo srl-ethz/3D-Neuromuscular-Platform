@@ -3,7 +3,7 @@
 ![Python 3.9](https://img.shields.io/badge/python-3.9-blue)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
-This repository contains the code used for data analysis and figure generation of the main figures of *[paper reference]*.
+This repository contains the code used for data analysis and figure generation of the main figures of *A 3D Human Neuromuscular Model with Biomimetic Architecture Encoded by Compliant Patterned Hydrogel Substrates*.
 
 ## Repository structure
 
@@ -29,11 +29,6 @@ pip install -r requirements.txt
 
 Run the scripts from the repository root. The usage of each script is given at the top of the file.
 
-*[Data availability statement]*
-
-## References
-
-*[Paper reference]*
 
 ## License
 
