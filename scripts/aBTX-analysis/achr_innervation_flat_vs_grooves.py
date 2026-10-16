@@ -37,7 +37,7 @@ CONDITIONS = ["Flat", "Grooves"]       # input folder names = labels, left -> ri
 CSV_NAME = "achr_innervation_flat_vs_grooves.csv"
 N_WORKERS = 4
 
-AChR_CH, AXON_CH = 1, 2                # 0-based channel indices (AChR, TUBB3)
+AChR_CH, AXON_CH = 1, 2                # 0-based channel indices (AChR, NF-H)
 PIXEL_UM = 1.33
 
 # AChR
