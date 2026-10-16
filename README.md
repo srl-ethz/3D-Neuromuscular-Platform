@@ -1,4 +1,4 @@
-# NM-swimmers-analysis
+# 3D Neuromuscular Platform Analysis
 
 ![Python 3.9](https://img.shields.io/badge/python-3.9-blue)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
