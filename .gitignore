@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+
+# Input data and generated outputs
+input_data/
+output/
+
+# Raw microscopy and video files
+*.nd2
+*.tif
+*.tiff
+*.avi
